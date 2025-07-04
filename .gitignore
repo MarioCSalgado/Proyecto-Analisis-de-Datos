@@ -1,0 +1,8 @@
+# Datos (se descargan aparte, ver datos/README.md)
+datos/*
+!datos/README.md
+
+# Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
